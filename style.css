@@ -1,7 +1,14 @@
 body{
     background-color: black;
-    color: white;
+    color: white (250, 240, 240);
+    display: flex;
 }
 .cabecalho-imagem{
 width:20%;    
+}
+.cabecalho-lista-imagem{
+    display: inline-block;
+margin: 0 16px;
+
+
 }
